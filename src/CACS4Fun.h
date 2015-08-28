@@ -1,11 +1,10 @@
-////////////////////////////////////////////////////////////////////////
-//  Class Name: Ant Colony System for Function Optimization           //
-//  Version:    0.11                                                   //
-//  Author:     Chen Ye (Sichuan University)                          //
-//  E-mail:     arrowcy@163.com, chenye84@gmail.com                   //
-//  Blog:       http://www.mscenter.edu.cn/blog/chenye                //
-//  Date:       2006-07-01                                            //
-////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+//  Class Name: Ant Colony System for Function Optimization                  //
+//  Version:    0.1                                                          //
+//  Author:     Ye Chen, @ Sichuan University (when writing this code)       //
+//  E-mail:     chenye84@gmail.com                                           //
+//  Date:       2006-07-01                                                   //
+///////////////////////////////////////////////////////////////////////////////
 
 class CAcs4Fun
 {
