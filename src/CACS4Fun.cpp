@@ -6,10 +6,12 @@
 //  Date:       2006-07-01                                                   //
 ///////////////////////////////////////////////////////////////////////////////
 
-#include "CACS4FUN.h"
+#include "CACS4Fun.h"
 #include <cstdlib>
 #include <cmath>
-#include <iostream.h>
+#include <iostream>
+
+using namespace std;
 
 CAcs4Fun::CAcs4Fun()
 {

@@ -6,6 +6,8 @@
 //  Date:       2006-07-01                                                   //
 ///////////////////////////////////////////////////////////////////////////////
 
+#pragma once
+
 class CAcs4Fun
 {
 public:
@@ -55,3 +57,4 @@ public:
 	CAcs4Fun();
 	~CAcs4Fun();				//call release_vars
 };
+

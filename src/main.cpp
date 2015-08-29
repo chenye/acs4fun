@@ -6,12 +6,14 @@
 //  Date:       2006-07-01                                                   //
 ///////////////////////////////////////////////////////////////////////////////
 
-#include <iostream.h>
+#include <iostream>
 #include <stdlib.h>
 #include <time.h>
-#include "cacs4fun.h"
+#include "CACS4Fun.h"
 
-void main()
+using namespace std;
+
+int main()
 {
 	srand(time(NULL));
 	//srand(0);
@@ -29,4 +31,7 @@ void main()
 	cout<<acs.gbfit<<endl;
 	for (int i=0; i<acs.dimension; i++)
 		cout<<"X["<<i<<"]="<<acs.gbx[i]<<endl;
+
+	return 0;
 }
+
