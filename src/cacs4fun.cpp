@@ -6,7 +6,7 @@
 //  Date:       2006-07-01                                                   //
 ///////////////////////////////////////////////////////////////////////////////
 
-#include "CACS4Fun.h"
+#include "cacs4fun.h"
 #include <cstdlib>
 #include <cmath>
 #include <iostream>

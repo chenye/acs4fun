@@ -9,7 +9,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
-#include "CACS4Fun.h"
+#include "cacs4fun.h"
 
 using namespace std;
 
